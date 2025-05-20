@@ -2,12 +2,12 @@
 # Maps human-friendly names to Google Sheets IDs and default worksheets
 
 finance_2025:
-  id: "1aBcDeFgHiJkLmNoPqRsTuVwXyZ1234567890"
-  sheet: "Transactions"
+  id: "PLACEHOLDER_ID"
+  sheet: Main
 
 budget_2025:
-  id: "2xYzAbCdEfGhIjKlMnOpQrStUvWxYz123456"
-  sheet: "Monthly Budget"
+  id: "PLACEHOLDER_ID"
+  sheet: Main
 
 balance_sheet:
   id: PLACEHOLDER_ID
