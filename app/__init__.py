@@ -1,0 +1,3 @@
+"""
+Finance Agent application package.
+""" 

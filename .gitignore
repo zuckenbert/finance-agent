@@ -1,0 +1,60 @@
+############################
+# Python / Poetry / venv
+############################
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+.env/
+.env.*          # cobre .env.local, .env.production etc.
+.venv.bak/
+
+############################
+# Node.js / npm
+############################
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+
+############################
+# Editor / IDE
+############################
+.vscode/
+.idea/
+*.sw?
+.DS_Store
+Thumbs.db
+
+############################
+# Tests / Coverage / Logs
+############################
+pytest_cache/
+.coverage
+htmlcov/
+*.log
+
+############################
+# Docker / CI artifacts
+############################
+*.tar
+*.gz
+*.whl
+*.dockertmp
+*.container
+
+############################
+# Cursor / LLM tooling
+############################
+.cursorignore   # mantemos versionado, mas remova se não quiser
+cursor.log
+
+############################
+# Misc
+############################
+*.pem
+*.key
+*.sqlite
+creds/*.json

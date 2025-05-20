@@ -1,0 +1,13 @@
+openai==1.12.0
+pydantic>=2.5.0,<3.0.0
+google-auth==2.27.0
+pandas==2.2.0
+python-dotenv>=1.0.0,<2
+pandasql
+google-api-python-client
+httpx==0.27.2
+fastapi>=0.110.0
+uvicorn[standard]>=0.27.1
+pytest==8.0.0
+pytest-mock==3.12.0
+pytest-cov==4.1.0 

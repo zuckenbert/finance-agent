@@ -1,0 +1,18 @@
+# Google Sheets configuration
+# Maps human-friendly names to Google Sheets IDs and default worksheets
+
+finance_2025:
+  id: "1aBcDeFgHiJkLmNoPqRsTuVwXyZ1234567890"
+  sheet: "Transactions"
+
+budget_2025:
+  id: "2xYzAbCdEfGhIjKlMnOpQrStUvWxYz123456"
+  sheet: "Monthly Budget"
+
+balance_sheet:
+  id: PLACEHOLDER_ID
+  sheet: Main
+
+income_statement:
+  id: PLACEHOLDER_ID
+  sheet: Main 

@@ -1,0 +1,5 @@
+# Continua ignorando todos os .env*, para segurança
+**/.env*
+
+# …mas libera o .env raiz para o chat‑AI ler/editar
+!.env
